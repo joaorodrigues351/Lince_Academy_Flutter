@@ -15,6 +15,10 @@ de um projeto Flutter e executar com `flutter run`.
 | | `ap3.dart` | Formatos dinâmicos |
 | `apf3_funcoes` | `ap1.dart` | Formulário básico |
 | `apf4_funcoes` | `ap1.dart` | Lista de cores (navegação entre telas) |
+| `apf6_funcoes` | `ap1.dart` | Tipos sanguíneos (5 telas, CRUD com Provider) |
+
+O `apf6_funcoes/ap1.dart` usa o pacote [provider](https://pub.dev/packages/provider);
+rode `flutter pub add provider` no projeto antes de executá-lo.
 
 ## Prompts de IA
 
